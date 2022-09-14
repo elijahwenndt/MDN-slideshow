@@ -1,11 +1,12 @@
 h1 {
-    font-family: helvetica, arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
   }
   
   body {
     width: 640px;
     margin: 0 auto;
+    background-color: lightseagreen;
   }
   
   .full-img {
